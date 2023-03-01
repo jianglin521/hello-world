@@ -341,13 +341,11 @@ export default {
 
 <style lang="scss" scoped>
 #login {
-  width: 100%;
-  height: 100%;
-  height: 1;
-  flex-direction: column;
   display: flex;
   align-items: center;
-
+  width: 100%;
+  height: 100%;
+  flex-direction: column;
 
   .login-center {
     display: flex;
